@@ -1,3 +1,3 @@
 # hlasic
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/potipek/hlasic)
+When imputted text and clickted next stop it will be sayed with ai vouce
